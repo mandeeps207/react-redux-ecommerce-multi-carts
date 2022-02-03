@@ -1,1 +1,4 @@
-<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1,shrink-to-fit=no"><meta http-equiv="content-type" content="text/html; charset=UTF-8"/><meta name="keywords" content="react, shopping cart, redux, javascript, ecommerce"/><meta name="description" content="This is some demo description for google snippet."/><meta name="og:title" property="og:title" content="React Multi Bag Shopping Cart"><meta property="og:description" content="This is some demo description for google snippet."/><link rel="manifest" href="./manifest.json"><link rel="stylesheet" href="./normalize.css"><title>React Multi Bag Shopping Cart</title><script defer="defer" src="./static/js/main.f684cc9a.js"></script><link href="./static/css/main.6828c768.css" rel="stylesheet"></head><body><noscript>You need to enable JavaScript to run this app.</noscript><div id="root"></div></body></html>
+Multi Carts for React-Redux ecommerce template!
+
+#live demo at below URL
+https://mandeeps207.github.io/multi-cart/
